@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `zwelinux`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://zwelinux.gatsbyjs.io`,
   },
   plugins: [
     "gatsby-plugin-image",
